@@ -1,5 +1,5 @@
 {
-    "name": "naoray/nova-json",
+    "name": "rofflexor/nova-json",
     "description": "Nova json field to spread a json column throughout multiple fields.",
     "type": "package",
     "license": "MIT",
@@ -15,8 +15,6 @@
     ],
     "require": {
         "php": "^8.0.2",
-        "illuminate/http": "^9.0||^10.0||^11.0",
-        "illuminate/support": "^9.0||^10.0||^11.0",
         "laravel/nova": "^3.0||^4.0",
         "cakephp/chronos": "^2.0||^3.0"
     },
